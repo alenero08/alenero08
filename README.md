@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ana 👋</h1>
 <h3 align="center">I am passionate about the application of AI to healthcare, with particular interest in medical image processing and computer-aided diagnosis. I enjoy keeping myself busy by exploring new tools and developing new skills 👩‍💻</h3>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **SQL & Godot**
 - 💪 I feel comfortable with **MATLAB**
 - 🐚 I recently got introduced to **Shell scripting**
 
